@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://looxohpaex.getweathersbee.com/sitemap.xml
